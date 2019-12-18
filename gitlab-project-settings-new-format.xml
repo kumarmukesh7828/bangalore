@@ -1,0 +1,35 @@
+<application>
+  <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/kumarmukesh7828/newproject.git" />
+          <option name="name" value="Newproject" />
+          <option name="namespace" value="mukesh kumar" />
+          <option name="sshUrl" value="git@gitlab.com:kumarmukesh7828/newproject.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/kumarmukesh7828/newproject.git" />
+          <option name="name" value="Newproject" />
+          <option name="namespace" value="mukesh kumar" />
+          <option name="sshUrl" value="git@gitlab.com:kumarmukesh7828/newproject.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/kumarmukesh7828/newproject.git" />
+          <option name="name" value="Newproject" />
+          <option name="namespace" value="mukesh kumar" />
+          <option name="sshUrl" value="git@gitlab.com:kumarmukesh7828/newproject.git" />
+        </ProjectDto>
+      </list>
+    </option>
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="1sQB7-xcihaxAb6UmTRs" />
+          <option name="apiUrl" value="https://gitlab.com/" />
+          <option name="repositoryUrl" value="gitlab.com" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
