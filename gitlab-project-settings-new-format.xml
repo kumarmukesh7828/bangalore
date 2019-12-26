@@ -26,6 +26,12 @@
           <option name="namespace" value="mukesh kumar" />
           <option name="sshUrl" value="git@gitlab.com:kumarmukesh7828/newproject.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.com/kumarmukesh7828/newproject.git" />
+          <option name="name" value="Newproject" />
+          <option name="namespace" value="mukesh kumar" />
+          <option name="sshUrl" value="git@gitlab.com:kumarmukesh7828/newproject.git" />
+        </ProjectDto>
       </list>
     </option>
     <option name="gitlabServers">
